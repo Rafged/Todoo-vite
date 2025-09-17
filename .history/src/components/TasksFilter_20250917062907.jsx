@@ -32,7 +32,9 @@ export default function TasksFilter({ filter, setFilter }) {
 
 
 TasksFilter.propTypes = {
+  // TODO: Уточни типы пропсов
 };
 
 TasksFilter.defaultProps = {
+  // TODO: Значения по умолчанию
 };

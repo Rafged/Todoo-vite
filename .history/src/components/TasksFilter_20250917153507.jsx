@@ -32,6 +32,7 @@ export default function TasksFilter({ filter, setFilter }) {
 
 
 TasksFilter.propTypes = {
+  
 };
 
 TasksFilter.defaultProps = {

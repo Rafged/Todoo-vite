@@ -17,7 +17,9 @@ export default function Footer({ tasks, filter, setFilter, clearCompleted }) {
 
 
 Footer.propTypes = {
+  // TODO: Уточни типы пропсов
 };
 
 Footer.defaultProps = {
+  // TODO: Значения по умолчанию
 };

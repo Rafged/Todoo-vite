@@ -19,7 +19,9 @@ export default function TaskList({ tasks, toggleTask, editTask, deleteTask }) {
 
 
 TaskList.propTypes = {
+  // TODO: Уточни типы пропсов
 };
 
 TaskList.defaultProps = {
+  // TODO: Значения по умолчанию
 };

@@ -27,7 +27,9 @@ export default function NewTaskForm({ addTask }) {
 
 
 NewTaskForm.propTypes = {
+  // TODO: Уточни типы пропсов
 };
 
 NewTaskForm.defaultProps = {
+  // TODO: Значения по умолчанию
 };

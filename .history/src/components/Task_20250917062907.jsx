@@ -66,7 +66,9 @@ export default function Task({ task, toggleTask, editTask, deleteTask }) {
 
 
 Task.propTypes = {
+  // TODO: Уточни типы пропсов
 };
 
 Task.defaultProps = {
+  // TODO: Значения по умолчанию
 };

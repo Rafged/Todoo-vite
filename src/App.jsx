@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import { useState } from "react";
 import TaskList from "./components/TaskList";
 import NewTaskForm from "./components/NewTaskForm";
@@ -72,3 +73,12 @@ export default function App() {
     </section>
   );
 }
+
+
+App.propTypes = {
+  // TODO: Уточни типы пропсов
+};
+
+App.defaultProps = {
+  // TODO: Значения по умолчанию
+};
